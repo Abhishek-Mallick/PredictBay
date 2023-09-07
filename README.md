@@ -1,4 +1,4 @@
-<h1 align="center">Predictbay</h1>
+<h1 align="center">PredictBay</h1>
 <h5 align="center">"Master the Art of Stock Forecasting: Harness the Power of Machine Learning"</h5>
 
 <hr>
